@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(65, 88, 237);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#navbar{
+    margin: 0px;
+    padding: 5px;
+    background-color: rgb(47, 49, 185);
+    color: rgb(255, 255, 255);
+    display: flex;
+    text-align: center;
+}
+
+#icone {
+    width: 90px;
+    height: 90px;
+}
