@@ -9,14 +9,14 @@ body {
 
 #navbar {
     margin: 0px;
-    padding: 5px;
+    padding: 10px;
     background-color: rgb(3, 22, 42);
-    color: rgb(255, 255, 255);
-    display: flex;
-    text-align: center;
+    color: rgb(136, 191, 210);
+    display: block;
+    justify-content: center;
 }
 
 #icone {
-    width: 90px;
-    height: 90px;
+    width: 120px;
+    height: 120px;
 }
