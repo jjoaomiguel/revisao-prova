@@ -52,6 +52,12 @@ body {
     font-size: large;
 }
 
+.paragrafoTitulos {
+    text-align: center;
+    font-family: 'Bold Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+
 #css {
     background-color: rgb(3, 22, 42);
     padding: 5px;
@@ -110,8 +116,4 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
-}
-
-#formulario {
-    justify-content: right;
 }
